@@ -1,0 +1,20 @@
+{
+  "name": "t2-koa-example",
+  "version": "0.0.1",
+  "description": " This is an example how to use Koa JS on your Tessel 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/Student007/t2-koa-example",
+  "keywords": [
+    "Tessel",
+    "Koa"
+  ],
+  "license": "MIT",
+  "readme": "This example shows how generator functions do not work with --slim",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-route": "^2.4.2"
+  }
+}
